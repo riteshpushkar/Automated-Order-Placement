@@ -84,5 +84,5 @@ class bulk_purchase :
             
 if __name__ == "__main__":
     bulk_purchase_object = bulk_purchase()
-    bulk_purchase_object.csv_reader('sample1.csv')
+    bulk_purchase_object.csv_reader('sample.csv')
 
